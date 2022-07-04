@@ -6,7 +6,7 @@
 
 VBA scripting assignment to analyze generated stock market data with challenge tasks.
 
-### Before You Begin
+### Key Tasks and Instructions Followed:
 
 1. New repository created for this project called `VBA-challenge`. **Do not add this homework to an existing repository**.
 
