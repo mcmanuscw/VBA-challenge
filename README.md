@@ -14,9 +14,14 @@ VBA scripting assignment to analyze generated stock market data with challenge t
 
 ### Files
 
-* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
+Testing was performed on a small (1) and large (2) version of the same datasets.  #1 had five tabs with less rows, and # 2 had 3 tabs with more rows.
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+VBA code has been uploaded to this reposository with  .bas and .vbs extensions.  The contain the exact same code.
+
+
+* #1 - [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
+
+* #2 - [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
 ### Stock Market Analyst
 
